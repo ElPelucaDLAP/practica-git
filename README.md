@@ -1,2 +1,2 @@
 # Proyecto Git
-Esto es un cambio de prueba
+Esto es un cambio para error de merge
